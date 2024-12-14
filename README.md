@@ -1,4 +1,6 @@
+
 # Real-time Face Recognition System
+![Face Detection Sample](outputs\abdo_detected.png)
 
 A Python-based real-time face recognition system that uses your webcam to detect and identify faces. The system can recognize known faces from a pre-defined set of images and mark unknown faces accordingly.
 
